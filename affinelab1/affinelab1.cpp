@@ -1,3 +1,4 @@
+// Компілятор : MSVC
 #include <iostream>
 #include <vector>
 #include <random>
